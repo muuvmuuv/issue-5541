@@ -1,0 +1,7 @@
+{
+  "name": "issue-5541",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
